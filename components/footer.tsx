@@ -12,7 +12,7 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
       )}
       {...props}
     >
-      AI chatbot powered by DaviDan Labs{' '}
+      AI chatbot powered by Esanu Oxana Intel Labs{' '}
 
       .
     </p>

@@ -6,7 +6,7 @@ import { Session } from '@/lib/types'
 import { getMissingKeys } from '@/app/actions'
 
 export const metadata = {
-  title: 'DaviDan Intelligence'
+  title: 'Oxana Esanu Intelligence'
 }
 
 export default async function IndexPage() {

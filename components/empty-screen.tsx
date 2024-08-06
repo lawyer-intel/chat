@@ -9,7 +9,7 @@ export function EmptyScreen() {
     <div className="flex justify-center items-center h-full mx-auto max-w-2xl px-4">
       <div className="flex flex-col gap-2 rounded-lg border bg-background p-8 text-center">
         <h1 className="text-lg font-semibold">
-          DaviDan Intelligence Labs
+          Oxana Esanu Intelligence Labs
         </h1>
       </div>
     </div>

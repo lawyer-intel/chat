@@ -36,14 +36,14 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'Stocks trading bot',
+      heading: 'Republic Of Moldova Parliament',
       subheading: `helpful tips`,
-      message: `Provide me usefull info about stocks .`
+      message: `Provide me usefull info about Moldova's Legislative Power .`
     },
     {
-      heading: 'DaviDan Water facts',
-      subheading: 'hidden helpful facts',
-      message: 'Please provide a text with the DaviDan Water useful facts in a readable format.'
+      heading: 'Oxana Esanu Lawyer Firm',
+      subheading: 'useful facts',
+      message: 'Please provide a text with the Oxana Esanu Lawyer Firm useful facts in a readable format.'
     },
     {
       heading: 'Step by Step instructions',
