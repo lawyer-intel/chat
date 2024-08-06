@@ -126,7 +126,7 @@ async function submitUserMessage(content: string) {
   let textStream: undefined | ReturnType<typeof createStreamableValue<string>>
   let textNode: undefined | React.ReactNode
 
-  const modelType = 'gpt-4o'; // You can change this dynamically based on user input or environment variables
+  const modelType = 'gpt-4o-mini'; // You can change this dynamically based on user input or environment variables
 
   const result = await streamUI({
     model: openai(modelType),
